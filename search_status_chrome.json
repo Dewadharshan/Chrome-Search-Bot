@@ -1,0 +1,41 @@
+{
+    "date": "2024-04-26",
+    "profiles": {
+        "PROFILE 001 - Chrome": {
+            "search_count": 37,
+            "last_search_time": 1714127989.3376021
+        },
+        "PROFILE 002 - Chrome": {
+            "search_count": 58,
+            "last_search_time": 1714035758.4767091
+        },
+        "PROFILE 003 - Chrome": {
+            "search_count": 35,
+            "last_search_time": 1714124669.9955747
+        },
+        "PROFILE 004 - Chrome": {
+            "search_count": 36,
+            "last_search_time": 1714120016.8207192
+        },
+        "PROFILE 005 - Chrome": {
+            "search_count": 37,
+            "last_search_time": 1714122457.194207
+        },
+        "PROFILE 006 - Chrome": {
+            "search_count": 34,
+            "last_search_time": 1714121507.546887
+        },
+        "PROFILE 007 - Chrome": {
+            "search_count": 36,
+            "last_search_time": 1714125535.227951
+        },
+        "PROFILE 008 - Chrome": {
+            "search_count": 35,
+            "last_search_time": 1714117983.524469
+        },
+        "PROFILE 009 - Chrome": {
+            "search_count": 34,
+            "last_search_time": 1714128689.696079
+        }
+    }
+}
